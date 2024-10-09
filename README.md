@@ -13,3 +13,7 @@ Tutorial de SQL no Workbench - Criação de tabela
 3. Procure pelo ícone mostrado na imagem
 
 ![Imagem mostrando o ícone da moedinha](https://github.com/user-attachments/assets/3c4d0ac9-f413-42c8-8974-8cc8f0101f26)
+
+4. Nomeie seu esquema e defina suas configurações básicas
+
+![Imagem mostrando como nomear o esquema](https://github.com/user-attachments/assets/b6936a72-418e-475b-840e-e46b23f062cd)
