@@ -19,4 +19,10 @@ Tutorial de SQL no Workbench - Criação de tabela
 ![Imagem mostrando como nomear o esquema](https://github.com/user-attachments/assets/b6936a72-418e-475b-840e-e46b23f062cd)
 
 5. Clique em "Apply" e depois em "OK"
+
 ![Captura de tela 2024-10-09 165411](https://github.com/user-attachments/assets/9053200e-ec57-4ae6-ba9b-9c1c1cd56964)
+
+6. Clique em "Apply"
+
+![Captura de tela 2024-10-09 170704](https://github.com/user-attachments/assets/e65c3ec8-6e78-44b0-b11c-3fe271308f8c)
+
