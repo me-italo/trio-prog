@@ -26,3 +26,23 @@ Tutorial de SQL no Workbench - Criação de tabela
 
 ![Captura de tela 2024-10-09 170704](https://github.com/user-attachments/assets/e65c3ec8-6e78-44b0-b11c-3fe271308f8c)
 
+7. Procure pelo esquema criado
+
+![Captura de tela 2024-10-09 171030](https://github.com/user-attachments/assets/1fedd914-a514-4318-9f0a-98aa170a58a9)
+
+8. Abra e clique na opção "criar tabela"
+
+![Captura de tela 2024-10-09 171100](https://github.com/user-attachments/assets/8475569d-e6e7-4aaf-a5b1-ec78b9c317d1)
+
+9. Dê um nome para sua tabela
+
+![Captura de tela 2024-10-09 171157](https://github.com/user-attachments/assets/991c7104-465a-4758-8f4a-5498b5b82ff6)
+
+10. Configure as colunas conforme suas necessidades. Lembre-se que a primeira coluna será a chave primária da sua tabela.
+
+![Captura de tela 2024-10-09 171229](https://github.com/user-attachments/assets/8b65ea50-1b28-42d7-aac1-d1b19583c7a6)
+
+11. Configure as demais colunas.
+
+![Captura de tela 2024-10-09 171335](https://github.com/user-attachments/assets/5b805bdb-82b4-48fc-b080-43b33e655f69)
+
