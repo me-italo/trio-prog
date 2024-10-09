@@ -46,3 +46,14 @@ Tutorial de SQL no Workbench - Criação de tabela
 
 ![Captura de tela 2024-10-09 171335](https://github.com/user-attachments/assets/5b805bdb-82b4-48fc-b080-43b33e655f69)
 
+12. Clique duas vezes em "Apply"
+
+![Captura de tela 2024-10-09 171342](https://github.com/user-attachments/assets/7ceaf744-d026-4e2b-8c6e-acbd54a14a57)
+
+![Captura de tela 2024-10-09 171353](https://github.com/user-attachments/assets/2e496850-8bfb-4ea9-8bde-68d2e409daf5)
+
+13. Parabéns! Sua tabela foi criada.
+
+![Captura de tela 2024-10-09 171430](https://github.com/user-attachments/assets/e043acca-28e2-4f48-b76f-0b32156d802b)
+
+#COMO PREENCHER TABELAS
